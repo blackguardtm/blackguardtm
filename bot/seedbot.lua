@@ -215,6 +215,8 @@ function create_config( )
     "banhammer",
     "stats",
     "set",
+    "spam",
+    "xy",
     "invite",
     "admin"
     },
